@@ -1,4 +1,4 @@
-# DemeterFi Finance
+# Demeter Finance
 
 https://demeterfi.com 
 Codes are forked from Goose DeFi.
